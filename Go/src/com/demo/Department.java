@@ -8,7 +8,9 @@ public class Department extends Company {
 		
 	}
 	
-
+	public void show() {
+		System.out.println("Each Department is needed for Employee class.");
+	}
 	
 
 }
